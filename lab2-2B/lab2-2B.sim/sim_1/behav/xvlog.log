@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2B/lab2-2B.srcs/sources_1/new/serdetect.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module serdetect
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2B/lab2-2B.srcs/sim_1/new/serdetect_simu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module serdetect_simu
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2B/lab2-2B.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

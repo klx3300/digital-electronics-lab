@@ -1,0 +1,19 @@
+Vivado Simulator 2015.2
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.2/bin/unwrapped/win64.o/xelab.exe -wto 7f7e94a71f1648a7969554613664d739 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot uasyncsimu_behav xil_defaultlib.uasyncsimu xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port ink [D:/verilog/lab2/lab2.srcs/sources_1/new/uasynccnt.v:30]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port inj [D:/verilog/lab2/lab2.srcs/sources_1/new/uasynccnt.v:31]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port ink [D:/verilog/lab2/lab2.srcs/sources_1/new/uasynccnt.v:32]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port inj [D:/verilog/lab2/lab2.srcs/sources_1/new/uasynccnt.v:29]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.jkflipflop
+Compiling module xil_defaultlib.uasynccnt
+Compiling module xil_defaultlib.uasyncsimu
+Compiling module xil_defaultlib.glbl
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot uasyncsimu_behav

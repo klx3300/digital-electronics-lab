@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog/QUESTC/QUESTC.srcs/sources_1/imports/new/jkflipflop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jkflipflop
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog/lab2/lab2.srcs/sources_1/new/uasynccnt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uasynccnt
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog/QUESTC/QUESTC.srcs/sim_1/imports/new/uasyncsimu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uasyncsimu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog/QUESTC/QUESTC.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

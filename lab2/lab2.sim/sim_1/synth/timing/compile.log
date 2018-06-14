@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2/lab2.sim/sim_1/synth/timing/shftreg3simu_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shftreg3
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2/lab2.srcs/sim_1/new/shftreg3simu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shftreg3simu
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2/lab2.sim/sim_1/synth/timing/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+WARNING: [VRFC 10-1195] overwriting previous definition of module glbl [/media/sf_verilog-projects/lab2/lab2.sim/sim_1/synth/timing/glbl.v:6]

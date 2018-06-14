@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Thu Jun 07 20:50:12 2018
+# Process ID: 3480
+# Log file: D:/verilog/QUESTC/QUESTC.runs/synth_1/uasynccnt.vds
+# Journal file: D:/verilog/QUESTC/QUESTC.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source uasynccnt.tcl -notrace

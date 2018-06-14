@@ -1,0 +1,7 @@
+Running: xsim.dir/serdetect_simu_behav/xsimk -simmode gui -wdb serdetect_simu_behav.wdb -simrunnum 0 -socket 54260
+Design successfully loaded
+Design Loading Memory Usage: 94168 KB (Peak: 94188 KB)
+Design Loading CPU Usage: 20 ms
+Simulation completed
+Simulation Memory Usage: 167904 KB (Peak: 233440 KB)
+Simulation CPU Usage: 20 ms

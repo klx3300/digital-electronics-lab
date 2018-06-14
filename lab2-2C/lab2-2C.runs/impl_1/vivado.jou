@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Thu Jun 14 12:14:45 2018
+# Process ID: 16562
+# Log file: /media/sf_verilog-projects/lab2-2C/lab2-2C.runs/impl_1/cmp3_disp.vdi
+# Journal file: /media/sf_verilog-projects/lab2-2C/lab2-2C.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source cmp3_disp.tcl -notrace

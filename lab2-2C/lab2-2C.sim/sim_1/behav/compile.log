@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2C/lab2-2C.srcs/sources_1/new/bitcmp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bitcmp
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2C/lab2-2C.srcs/sources_1/new/cmp3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmp3
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2C/lab2-2C.srcs/sim_1/new/cmp3simu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmp3simu
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2C/lab2-2C.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

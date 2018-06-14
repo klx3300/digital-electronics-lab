@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2A/lab2-2A.srcs/sources_1/imports/sources_1/new/cntr4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cntr4
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2A/lab2-2A.srcs/sources_1/imports/sources_1/new/cntr4m8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cntr4m8
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2A/lab2-2A.srcs/sim_1/new/cntr4m8simu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cntr4m8simu
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/sf_verilog-projects/lab2-2A/lab2-2A.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
